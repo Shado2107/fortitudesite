@@ -1,0 +1,2 @@
+# fortitudesite
+my personal blog 
